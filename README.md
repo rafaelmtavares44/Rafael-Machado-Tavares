@@ -13,7 +13,7 @@
 
 - 🎓 Formado em Propaganda e Marketing pela Unip
 - 🤖 Estudante de graduação em Inteligência Artificial na Faculdade SENAI Fatesg
-- 💻 Focado em aprender sobre Data Science, Machine Learning e Inteligência Artificial
+- 💻 Focado em aprender sobre Data Science, Machine Learning, Inteligência Artificial, BigData, Data Science e Banco de Dados NoSQL
 
 ---
 
