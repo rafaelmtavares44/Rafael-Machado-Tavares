@@ -39,7 +39,7 @@
 
 ## 📂 Projetos Destacados
 
-- 🔗 [Em breve!](https://github.com/rafael-mt?tab=repositories)
+- 🔗 Projetos no meu perfil !(https://github.com/rafael-mt?tab=repositories)
 
 ---
 
